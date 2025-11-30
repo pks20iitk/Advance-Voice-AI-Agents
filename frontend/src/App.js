@@ -107,7 +107,7 @@ function App() {
           {token && (
             <div className="room-container">
               <LiveKitRoom
-                serverUrl={'wss://live-voice-assistant-hbk7eu87.livekit.cloud'}
+                serverUrl={'LIVEKI-URL'}
                 token={token}
                 audio={true}
                 video={false}
