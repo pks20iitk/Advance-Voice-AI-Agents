@@ -1,0 +1,4 @@
+livekit-agents[google, deepgram, silero, turn-detector]>=1.0
+google-genai>=0.8.0
+python-dotenv>=1.0
+duckduckgo-search>=8.0
